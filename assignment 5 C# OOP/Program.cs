@@ -64,7 +64,7 @@ namespace assignment_5_C__OOP
             double num01 = 50;
             double num02 = 50;
             Console.WriteLine($"The Result Of Addition is : {Maths.Add(num01,num02)}");
-            Console.WriteLine($"The Result Of Subtraction is : {Maths.Subtract(num01, num02)}");
+            Console.WriteLine($"The Result Of Subtraction is : {Maths.Subtract(num01, num02)}");  
             Console.WriteLine($"The Result Of Multipliction is : {Maths.Multiply(num01, num02)}");
             Console.WriteLine($"The Result Of Division is : {Maths.Divide(num01, num02)}");
 
